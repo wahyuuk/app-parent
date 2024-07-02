@@ -13,3 +13,6 @@
 [submodule "api-parent"]
 	path = api-parent
 	url = https://github.com/wahyuuk/api-parent.git
+[submodule "common-api"]
+	path = common-api
+	url = https://github.com/wahyuuk/common-api.git
