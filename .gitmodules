@@ -1,9 +1,6 @@
 [submodule "common-data-util"]
 	path = common-data-util
 	url = https://github.com/wahyuuk/common-data-util.git
-[submodule "common-util"]
-	path = common-util
-	url = https://github.com/wahyuuk/common-util.git
 [submodule "common-model"]
 	path = common-model
 	url = https://github.com/wahyuuk/common-model.git
